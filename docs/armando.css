@@ -50,8 +50,8 @@ table {
 /* Begin main formatting */
 
 html {
-	background-color: #222222;
-	color: white;
+	background-color: #FEE2C3;
+	color: #67493C;
 }
 
 body {
@@ -65,7 +65,7 @@ a {
 }
 
 a#backlink {
-	color: #E65634;
+	color: #E68F71;
 	text-decoration: none;
 	text-transform: uppercase;
 	display: block;
@@ -79,11 +79,11 @@ h1 {
 	font-size: 44pt;
 	font-family: "Droid serif";
 	font-style: italic;
-	border: 2px solid #E65634;
+	border: 2px solid #E68F71;
 	border-left: none;
 	border-right: none;
 	padding: 12px 0;
-	width: 50%;
+	width: 75%;
 }
 
 div {
@@ -98,7 +98,7 @@ p {
 }
 
 em {
-	color: #E65634;
+	color: #E68F71;
 	font-weight: bold;
 }
 
@@ -106,7 +106,7 @@ em {
 	display; block;
 	width: 140px;
 	margin: auto;
-	background: #E65634;
+	background: #E68F71;
 	color: white;
 	text-decoration: none !important;
 	text-align: center;
